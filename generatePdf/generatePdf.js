@@ -1037,7 +1037,7 @@ const generateBitacora = async (data, startDate, endDate) => {
                         console.error('Error al enviar el correo:', err);
                         return res.status(500).send('Error al enviar el correo con el archivo adjunto');
                     }
-                    console.log('Correo enviado:', info.response);
+                    //console.log('Correo enviado:', info.response);
                     res.status(200).send('Correo enviado exitosamente con el PDF adjunto');
                 });
             } else {
