@@ -1,0 +1,4748 @@
+{
+  "ADO": {
+    "Otro": {
+      "Victor Hugo Martinez Lopez (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Otro",
+            "placas": "81F491"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Otro",
+            "placas": "81F491"
+          }
+        ]
+      },
+      "Pedro Carrillo Alvarez (AR RENTALS)": {
+        "diasTrabajados": 4,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "Lf 43148"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "Lf 43148"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "Lf 43148"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "Lf 43148"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "Lf43148"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "Lf 43148"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Otro",
+            "placas": "Lf43148"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Otro",
+            "placas": "Lf 43148"
+          }
+        ]
+      },
+      "José Fernando Belmont González   (AR RENTALS)": {
+        "diasTrabajados": 5,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "Rdv691c"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "Rdv691c"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "Rdv691c"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "Rdv691c"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Otro",
+            "placas": "J88bdp"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "Rdv692c"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "Rdv691c"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "J88bdp"
+          }
+        ]
+      }
+    },
+    "Talento": {
+      "Victor Abel Sanchez Ramirez  (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "NXX344A"
+          }
+        ]
+      },
+      "Jorge Luis Gonzalez Quijas (AR RENTALS)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "MBX621A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "MBX621A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "MBX621A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "MBX621A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "MBX621A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "MBX621A"
+          }
+        ]
+      },
+      "Sergio Hernández Cabrera (SERGIO DANIEL)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          }
+        ]
+      },
+      "Joel Alejandro Rayon Garibay (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "H34BBD"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "H34BBD"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "H34BBD"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "H34BBD"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "H34BBD"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "H34-BBD"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "H34BBD"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "H34BBD"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "H34BBD"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "H34BBD"
+          }
+        ]
+      },
+      "Alfredo Cortes López (SERGIO DANIEL)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "NZB3383"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "NZB3383"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "Cancelar"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "NZB3383"
+          }
+        ]
+      },
+      "José Fernando Belmont González   (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "Rdv691c"
+          }
+        ]
+      },
+      "Bruno Antonio Santillan Tapia  (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "19F049"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "19F049"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "19F049"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "19F049"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "19F049"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "79F049"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "19F049"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "79F049"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "79F049"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "79F049"
+          }
+        ]
+      },
+      "Silva Chávez Eduardo Manuel  (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "a411"
+          }
+        ]
+      },
+      "Victor Antonio Burgos Aguilar  (AR RENTALS)": {
+        "diasTrabajados": 2,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "83f030"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "83F030"
+          }
+        ]
+      }
+    },
+    "Props": {
+      "Edwin Charbel Sanchez Mendoza (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Props",
+            "placas": "NXE2136"
+          }
+        ]
+      },
+      "Adrian ramirez yep (ADRIAN RAMÍREZ)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Props",
+            "placas": "160ak9"
+          }
+        ]
+      }
+    },
+    "Transportación": {
+      "Edmundo Becerra Navarrete (AR RENTALS)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          }
+        ]
+      },
+      "Oscar Contreras Mayorga  (AR RENTALS)": {
+        "diasTrabajados": 5,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Transportación",
+            "placas": "Z02AVR"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Transportación",
+            "placas": "Z02AVR"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Transportación",
+            "placas": "Z02AVR"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Transportación",
+            "placas": "Z02AVR"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Transportación",
+            "placas": "Z02AVR"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Transportación",
+            "placas": "Z02AVR"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Transportación",
+            "placas": "Z02AVR"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Transportación",
+            "placas": "Z02AVR"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Transportación",
+            "placas": "Z02AVR"
+          }
+        ]
+      },
+      "José Fernando Belmont González   (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Transportación",
+            "placas": "Rdv691c"
+          }
+        ]
+      }
+    },
+    "Producción": {
+      "Aceves del Valle Daniel Arturo (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "G62BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "G62BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "G62BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "G62BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "G62BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "G62BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "G62BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "G62BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "G62BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "G62BPZ"
+          }
+        ]
+      },
+      "Mauricio Israel Guerrero Resendiz  (HECTOR CRUZ C)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "NVA-75-58"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "NVA-75-58"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "NVA-75-58"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "NVA-75-58"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "NVA-75-58"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "NVA-75-58"
+          }
+        ]
+      },
+      "Haziel Flores Martínez (SERGIO DANIEL)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "LKB427A"
+          }
+        ]
+      },
+      "Sergio Martinez Ramirez (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "G91BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "G91BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "G91BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "G91BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "G91BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "G91BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "G91BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "G91BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "G91BPZ"
+          }
+        ]
+      },
+      "Eddy Jhovany Vallejo Osorio (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "Rad563e"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "Rad563e"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "Rad563e"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "Rad563e"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "Rad573e"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "Rad563e"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "Rad563e"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "Rad563e"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "Rad563e"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "Rad563e"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "Rad563e"
+          }
+        ]
+      },
+      "Jose Joaquin Rosales Suarez  (AR RENTALS)": {
+        "diasTrabajados": 4,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "L42BPD"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "L42BPD"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "L42BPD"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "L42BPD"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "L42BPD"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "L42BPD"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "L42BPD"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "L42BPD"
+          }
+        ]
+      },
+      "Oscar Contreras Mayorga  (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "Z02-AVR"
+          }
+        ]
+      }
+    },
+    "Arte": {
+      "Rodolfo Adrián Juárez Gómez (ADRIAN RAMÍREZ)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "PEN3984"
+          }
+        ]
+      },
+      "Miguel Angel Limon Torres (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "LWK030A"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "LWK030A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "LWK030A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "LWK030A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "LWK030A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "LWK030A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "LWK030A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "LWK030A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PBB2745"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PBB2745"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "PBB2745"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "PBB2745"
+          }
+        ]
+      },
+      "Omar Alvarado Omar  (ADRIAN RAMÍREZ)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "083 DF 2"
+          }
+        ]
+      },
+      "Edgar Alejandro Venancio Molina (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "U13BNY"
+          }
+        ]
+      },
+      "Jorge Alexis Sanchez Mendoza (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "PZC768E"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "PZC768E"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "pzc768e"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "PZC768E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "PZC768E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "PZC768E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "PZC768E"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PZC768E"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PZC768E"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PZC768E"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "PZC768E"
+          }
+        ]
+      },
+      "Jorge Luis Mejía González  (CESAR ORTEGA (FRANK))": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "PBX3950"
+          }
+        ]
+      },
+      "Adrian ramirez yep (ADRIAN RAMÍREZ)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "160ak9"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "160ak9"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "160ak9"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "160ak9"
+          }
+        ]
+      }
+    },
+    "Vestuario": {
+      "José Antonio Prieto Martínez  (CESAR ORTEGA (FRANK))": {
+        "diasTrabajados": 5,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Vestuario",
+            "placas": "NDG551A"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Vestuario",
+            "placas": "NDG551A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "NDG551A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "NDG551A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Vestuario",
+            "placas": "NDG551A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Vestuario",
+            "placas": "NDG551A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "NDG551A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "NDG551A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Vestuario",
+            "placas": "NDG551A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Vestuario",
+            "placas": "NDG551A"
+          }
+        ]
+      }
+    },
+    "Camper": {
+      "Jorge Ramirez Sanchez (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "LG 48757, 4MY158A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "LG47757, 4MY158A"
+          }
+        ]
+      },
+      "Juan Antonio Castro Alvarez (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "Lg47759, 2my422a"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "Lg47759, 4my160a"
+          }
+        ]
+      }
+    },
+    "Maquillaje": {
+      "Ezequiel Cruz Martinez (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Maquillaje",
+            "placas": "Lf68766, Lf68766"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Maquillaje",
+            "placas": "Lf68766, Lf68766"
+          }
+        ]
+      }
+    }
+  },
+  "MI MUNDO MEXICANO ": {
+    "Producción": {
+      "Carlos Hernandez Cruz (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "PYG-663-E"
+          }
+        ]
+      },
+      "Abisay Barrera Juarez (AR RENTALS)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PYG660-E"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PYG660-E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PYG660-E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PYG660-E"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "PYG660-E"
+          }
+        ]
+      },
+      "Christian Sergio Estrella Nuñez (AR RENTALS)": {
+        "diasTrabajados": 4,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "JAC AH950E"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "AH950E"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "AH950E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "AH950E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "AH950E"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "AH950E"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "AH950E"
+          }
+        ]
+      }
+    }
+  },
+  "TIEMPO DE VALIENTES": {
+    "Vestuario": {
+      "Víctor Manuel Canseco Sánchez (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          }
+        ]
+      }
+    },
+    "Producción": {
+      "Juan Antonio Castro Alvarez (AR RENTALS)": {
+        "diasTrabajados": 2,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "X08bkc"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "X08bkc"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "X08bkc"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "X08BKC"
+          }
+        ]
+      }
+    }
+  },
+  "BODAS": {
+    "Arte": {
+      "Jesus Alejandro Aldana Ruiz (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          }
+        ]
+      },
+      "Cesar Christian Adrian Centeno Mendoza (BENJAMIN PONCE)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "PDF 337A"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "PDF 337A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "PDF 337A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "PDF 337A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Arte",
+            "placas": "PDF 337A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "PDF 337A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Arte",
+            "placas": "PDF 337A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PDF 337A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Arte",
+            "placas": "PDF 337A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Arte",
+            "placas": "PDF 337A"
+          }
+        ]
+      }
+    },
+    "Camper": {
+      "Juan Antonio Castro Alvarez (AR RENTALS)": {
+        "diasTrabajados": 2,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Camper",
+            "placas": "Lg47759, 2my422a"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Camper",
+            "placas": "Lg47759, 2my422a"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Camper",
+            "placas": "Lg47759, 2my422a"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Camper",
+            "placas": "Lg47759, 2my422a"
+          }
+        ]
+      },
+      "David Hernandez Monroy (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": true,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 2MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 2MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 2MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "LF54560"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 4MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Camper",
+            "placas": "Z7, 2MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Camper",
+            "placas": "LF54560"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 2MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 2MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 2MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 4MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 2MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 4MY039A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Camper",
+            "placas": "Z70AVR, 4MY039A"
+          }
+        ]
+      },
+      "Jorge Ramirez Sanchez (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Camper",
+            "placas": "LG47757, 2MY427A"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Camper",
+            "placas": "LG47757, 2MY427A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "LG 47757, 4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "LG47757, 4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Camper",
+            "placas": "LG47757, 4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Camper",
+            "placas": "LG47757, 4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Camper",
+            "placas": "LG47757, 4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Camper",
+            "placas": "LG47757, 4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Camper",
+            "placas": "LG47757, 4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Camper",
+            "placas": "LG47757, 4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Camper",
+            "placas": "LG47757, 4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Camper",
+            "placas": "LG47757, 4MY163A"
+          }
+        ]
+      },
+      "Pedro Carrillo Alvarez (AR RENTALS)": {
+        "diasTrabajados": 2,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Camper",
+            "placas": "4MY163A, 4 MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Camper",
+            "placas": "Lf 54560, Lf 54560"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Camper",
+            "placas": "4MY163A, 4MY163A"
+          }
+        ]
+      },
+      "Aram Chavez Salinas  (AR RENTALS)": {
+        "diasTrabajados": 2,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Camper",
+            "placas": "4MY163A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Camper",
+            "placas": "4MY163 A"
+          }
+        ]
+      },
+      "Ismael Andrade Nieve (AR RENTALS)": {
+        "diasTrabajados": 2,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "2MY422A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Camper",
+            "placas": "2WY422A, 2WY422A"
+          }
+        ]
+      },
+      "Edmundo Becerra Navarrete (AR RENTALS)": {
+        "diasTrabajados": 2,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Camper",
+            "placas": "Lg92752"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Camper",
+            "placas": "Lg92752"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "Lg92752, 9xx741a"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "Lg92752, 9xx741a"
+          }
+        ]
+      }
+    },
+    "Transportación": {
+      "Joel Abelardo Rodriguez Gutierrez (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Transportación",
+            "placas": "G32BPZ"
+          }
+        ]
+      },
+      "Edmundo Becerra Navarrete (AR RENTALS)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Transportación",
+            "placas": "G53bpz"
+          }
+        ]
+      },
+      "Evaristo Luna Tapia (Logística AR) (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Transportación",
+            "placas": "PBB2741"
+          }
+        ]
+      }
+    },
+    "Talento": {
+      "Julio Cesar Alvarez Castro (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "19G 233"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "19G 233"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "J88 BDP"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "J88 BDP"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "J88BDP"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "19G 262"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "19G 262"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "19G 262"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "19G 262"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "19G 262"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "19G 262"
+          }
+        ]
+      },
+      "Fernando Adea Vega Suarez (AR RENTALS)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "83f019"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "83f019"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "83f019"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Talento",
+            "placas": "83f019"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "83f019"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Talento",
+            "placas": "83f019"
+          }
+        ]
+      },
+      "Alberto Moreno Martinez (ADRIAN RAMÍREZ)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "P12ANV"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "P12ANV"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "P12ANV"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "P12ANV"
+          }
+        ]
+      },
+      "Alberto Moreno Mtz (SERGIO DANIEL)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "P12ANV"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "P12ANV"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "P12ANV"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "P12ANV"
+          }
+        ]
+      },
+      "Sergio Daniel Hernandez España (SERGIO DANIEL)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "Pxd812d"
+          }
+        ]
+      },
+      "Sergio Hernández Cabrera (SERGIO DANIEL)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "PDR 1701"
+          }
+        ]
+      }
+    },
+    "Otro": {
+      "Aram Chavez Salinas  (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Otro",
+            "placas": "LF54560"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Otro",
+            "placas": "LF54560"
+          }
+        ]
+      },
+      "Carranza Urbano Jairo David  (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Otro",
+            "placas": "Lf44499"
+          }
+        ]
+      },
+      "Pedro Carrillo Alvarez (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "Lf 54560"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "Lf 54560"
+          }
+        ]
+      }
+    },
+    "Props": {
+      "Carlos Andrés Cortés Chávez (ADRIAN RAMÍREZ)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Props",
+            "placas": "MNF675B"
+          }
+        ]
+      },
+      "Jorge Antonio Castañón García (ADRIAN RAMÍREZ)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Props",
+            "placas": "61BG8Y"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Props",
+            "placas": "61BG8Y"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Props",
+            "placas": "61BG8Y"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Props",
+            "placas": "61BG8Y"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Props",
+            "placas": "61BG8Y"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Props",
+            "placas": "61BG8Y"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Props",
+            "placas": "61BG8Y"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Props",
+            "placas": "61BG8Y"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Props",
+            "placas": "61BG8Y"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Props",
+            "placas": "61BG8Y"
+          }
+        ]
+      }
+    },
+    "Producción": {
+      "Jose Juan Morales Alvarez (BENJAMIN PONCE)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "PEJ 6480"
+          }
+        ]
+      },
+      "Eduardo Ramirez Sanchez (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "PYG661E"
+          }
+        ]
+      },
+      "Mauricio Israel Guerrero Resendiz  (HECTOR CRUZ C)": {
+        "diasTrabajados": 3,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "PDY-66-59"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "PDY-66-59"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "A51-BHN"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PDY-66-59"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "A51-BHN"
+          }
+        ]
+      },
+      "Joel Abelardo Rodriguez Gutierrez (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "G32BPZ"
+          }
+        ]
+      }
+    },
+    "Vestuario": {
+      "Ezequiel Cruz Martinez (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Vestuario",
+            "placas": "Lf54570"
+          }
+        ]
+      },
+      "Adolfo Paguia Pérez Bilingüe (BENJAMIN PONCE)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Vestuario",
+            "placas": "P18ABZ"
+          }
+        ]
+      },
+      "Aram Chavez Salinas  (AR RENTALS)": {
+        "diasTrabajados": 5,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Vestuario",
+            "placas": "LF84634"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Vestuario",
+            "placas": "LF84634"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "LF84634"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "LF54570"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Vestuario",
+            "placas": "LF84634"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Vestuario",
+            "placas": "LF54570"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Vestuario",
+            "placas": "LF84634"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "LF84634"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "LF84634"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Vestuario",
+            "placas": "LF84634"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Vestuario",
+            "placas": "LF84634"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Vestuario",
+            "placas": "LF84634"
+          }
+        ]
+      }
+    },
+    "Maquillaje": {
+      "Ismael Andrade Nieve (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Maquillaje",
+            "placas": "LF68763"
+          }
+        ]
+      }
+    }
+  },
+  "PABLO CRUZ": {
+    "Otro": {
+      "Cesar Miguel Garcia Navarrete (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": true,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "85F176"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "85F176"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "85F172"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "85F176"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Otro",
+            "placas": "85F176"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "85F176"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Otro",
+            "placas": "85F176"
+          }
+        ]
+      }
+    },
+    "Producción": {
+      "Christian Sergio Estrella Nuñez (AR RENTALS)": {
+        "diasTrabajados": 2,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "AH950E"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "AH950E"
+          }
+        ]
+      }
+    }
+  },
+  "ACAPULCO": {
+    "Camper": {
+      "Moises Abad Pelaez Luna (AR RENTALS)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "martes",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Camper",
+            "placas": "LG 47752, 2MY425 A"
+          }
+        ]
+      }
+    },
+    "Otro": {
+      "Mandujano De La Cruz Gerardo (AR RENTALS)": {
+        "diasTrabajados": 5,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "LG92756"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "LG92756"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "LG92756"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "LG92756"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "LG92756"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "LG92756"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Otro",
+            "placas": "LG92756"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Otro",
+            "placas": "LG92756"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "LG92756"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "LG92756"
+          }
+        ]
+      },
+      "Agustin Tenorio Gomez (AR RENTALS)": {
+        "diasTrabajados": 5,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "NY-0432-A"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "NY-0432-A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "NY-0432-A"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Otro",
+            "placas": "NY-0432-A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "NY-0432-A"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Otro",
+            "placas": "NY-0432-A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Otro",
+            "placas": "NY-0432-A"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Otro",
+            "placas": "NY-0432-A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "NY-0432-A"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Otro",
+            "placas": "NY-0432-A"
+          }
+        ]
+      }
+    },
+    "Props": {
+      "Isrrael Nieva Gonzalez (AR RENTALS)": {
+        "diasTrabajados": 5,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Props",
+            "placas": "LF68776"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Props",
+            "placas": "LF68776"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Props",
+            "placas": "LF68776"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Props",
+            "placas": "LF68776"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Props",
+            "placas": "LF68776"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Props",
+            "placas": "LF68776"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Props",
+            "placas": "LF68776"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Props",
+            "placas": "LF68776"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Props",
+            "placas": "LF68776"
+          }
+        ]
+      }
+    },
+    "Producción": {
+      "Gerardo Raul Rodriguez Moreno (AR RENTALS)": {
+        "diasTrabajados": 5,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "LG92758"
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "No LF92758"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "LG92758"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "FG92758"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "LG92758"
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "LG92758"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "LG92758"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "LG92758"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "KG92758"
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "LG92758"
+          }
+        ]
+      }
+    },
+    "Talento": {
+      "Silva Chávez Eduardo Manuel  (AR RENTALS)": {
+        "diasTrabajados": 2,
+        "multiplesTiposUnidad": true,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "5aa5"
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Camper",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Talento",
+            "placas": "101DD, 101ASD"
+          }
+        ]
+      },
+      "Bruno Antonio Santillan Tapia  (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Talento",
+            "placas": "19F049"
+          }
+        ]
+      }
+    },
+    "Arte": {
+      "Isrrael Nieva Gonzalez (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Arte",
+            "placas": "LF68776"
+          }
+        ]
+      }
+    }
+  },
+  "Bodas ": {
+    "Producción": {
+      "Ivan Rodrigo Avilés Herrera (SERGIO DANIEL)": {
+        "diasTrabajados": 6,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          },
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "martes",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          },
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          },
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          },
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          }
+        ]
+      }
+    }
+  },
+  "LA OFICINA OFMX": {
+    "Producción": {
+      "Christian Sergio Estrella Nuñez (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-07",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "sábado",
+            "departamento": "Producción",
+            "placas": "AH950E"
+          }
+        ]
+      }
+    }
+  },
+  "Bodas": {
+    "Producción": {
+      "Ivan Rodrigo Avilés Herrera (SERGIO DANIEL)": {
+        "diasTrabajados": 2,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-05",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "jueves",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          },
+          {
+            "fechaCreacion": "2024-12-06",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "viernes",
+            "departamento": "Producción",
+            "placas": "PEY-23-69 "
+          }
+        ]
+      }
+    },
+    "Talento": {
+      "Alberto Moreno Mtz (SERGIO DANIEL)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Talento",
+            "placas": "P12ANV "
+          }
+        ]
+      }
+    }
+  },
+  "Tiempo de Valientes ": {
+    "Vestuario": {
+      "Víctor Manuel Canseco Sánchez (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Vestuario",
+            "placas": "02G289"
+          }
+        ]
+      }
+    }
+  },
+  "FABULA": {
+    "Deco": {
+      "Silva Chávez Eduardo Manuel  (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-04",
+            "tipoUnidad": "Automóvil",
+            "diaDeLaSemana": "miércoles",
+            "departamento": "Deco",
+            "placas": "Hyu"
+          }
+        ]
+      }
+    }
+  },
+  "Pensión (apoyo talleres)": {
+    "Arte": {
+      "Jesus Alejandro Aldana Ruiz (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          },
+          {
+            "fechaCreacion": "2024-12-03",
+            "tipoUnidad": "Van/Express",
+            "diaDeLaSemana": "martes",
+            "departamento": "Arte",
+            "placas": "PCF8802"
+          }
+        ]
+      }
+    }
+  },
+  "PROYECTO S/N (SOLO APOYO)": {
+    "Otro": {
+      "Oscar Contreras Mayorga  (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "4MY160A"
+          }
+        ]
+      }
+    }
+  },
+  "Pensión (capacitacion nuevo ingreso)": {
+    "Otro": {
+      "Oscar Contreras Mayorga  (AR RENTALS)": {
+        "diasTrabajados": 1,
+        "multiplesTiposUnidad": false,
+        "registros": [
+          {
+            "fechaCreacion": "2024-12-02",
+            "tipoUnidad": "Camión",
+            "diaDeLaSemana": "lunes",
+            "departamento": "Otro",
+            "placas": "4MY160A"
+          }
+        ]
+      }
+    }
+  }
+}
