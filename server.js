@@ -21,7 +21,7 @@ const { CreateBillingUsageRequest } = require('twilio/lib/rest/marketplace/v1/in
 const xl = require('excel4node');
 const { getMergedData } = require('./airtable/airtable');
 const { getMergedDataExcel } = require('./dataExcel/dataExcel')
-
+const db = require('./db.js')
 
 
 
@@ -29,20 +29,6 @@ const { getMergedDataExcel } = require('./dataExcel/dataExcel')
 const app = express();
 app.use(express.json());
 app.use(cors());
-const db = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: 'root',
-    database: 'world'
-});
-db.connect((err) => {
-    if (err) {
-        console.error('Error conectando a la base de datos:', err);
-        return;
-    }
-    console.log('Conectado a la base de datos');
-});
-
 
 const transporter = nodemailer.createTransport({
     host: 'mail.arrentals.com.mx',
@@ -306,7 +292,7 @@ app.get('/dataExcel', async (req, res) => {
 
 
 
-const PORT = process.env.PORT || 3001;
-app.listen(PORT, () => {
-    console.log(`Servidor escuchando en el puerto ${PORT}`);
-});
+// const PORT = process.env.PORT || 3001;
+// app.listen(PORT, () => {
+//     console.log(`Servidor escuchando en el puerto ${PORT}`);
+// });
